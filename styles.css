@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .tag {
+    font-family: monospace;
+    color: firebrick;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px;
+  }
+  table {
+    margin: 20px;
+    padding: 0px;
+  }
+  
+  thead {
+    background-color: cadetblue;
+  }
+
+  The YouTube videos are helpful. They help by presenting the content in a way that can be easier to interact with than the text articles.
+One observation though, for anyone watching the video via the Codecademy site it's not clear how you are meant to inspect the Codecademy site while not logged in when you have to be logged in to be viewing the video. The text ar
